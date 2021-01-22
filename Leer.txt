@@ -1,0 +1,2 @@
+Para encontrar los metodos de una clase debe que poner m + mas el nombre, ej.
+CClase.mMetodo();
